@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\bin\Debug\Task_25_Array_Sort.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\bin\Debug\Task_25_Array_Sort.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\bin\Debug\Task_25_Array_Sort.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\obj\Debug\Task_25_Array_Sort.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\obj\Debug\Task_25_Array_Sort.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\obj\Debug\Task_25_Array_Sort.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\obj\Debug\Task_25_Array_Sort.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_25_Array_Sort\Task_25_Array_Sort\obj\Debug\Task_25_Array_Sort.pdb
